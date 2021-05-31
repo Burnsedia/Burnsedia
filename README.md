@@ -7,7 +7,7 @@ I am your typical nerd who builds FOSS apps and games.
 Here are the Technolgies I use:
 
   - [Rust](https://www.rust-lang.org/)
-  - [Manjaro Linux](https://manjaro.org/https://manjaro.org/)
+  - [Manjaro Linux](https://manjaro.org/)
   - [Godot Engine](https://godotengine.org/)
   - [Python](https://www.python.org/)
   - [Django](https://www.djangoproject.com/)
