@@ -16,7 +16,7 @@ Here are the Technolgies I use:
 
 I love this Editers and IDEs:
   - [Neovim](https://neovim.io/)
-  - [vscodium](https://vscodium.com/)
+  - [VSCodium](https://vscodium.com/)
   - [Spacemacs](https://www.spacemacs.org/)
 
 ---
