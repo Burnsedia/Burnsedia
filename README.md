@@ -37,10 +37,10 @@ I make art with:
 ---
 
 Follow me on:
-  - Youtube
-  - Github
+  - [Youtube](https://www.youtube.com/channel/UC71vuzjHKhS4Wv4Px44FKjg)
+  - [Github](https://github.com/Burnsedia)
   - [linkedin](https://www.djangoproject.com/)
   - [Instagram](https://www.instagram.com/baileyburnsed/)
   - [Twitch](https://www.twitch.tv/burnsedia)  
   - [Twitter](https://twitter.com/Burnsed3dArt)
-  Oh btw, Twitter is crindge use [Mastodon](https://mastodon.social/web/timelines/home)
+  Oh btw, Twitter and Youtube are crindge, follow me on [Mastodon](https://mastodon.social/web/timelines/home), and [Odyse](https://odysee.com/@Burnsedia:4)
