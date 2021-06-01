@@ -34,6 +34,12 @@ I make art with:
   - [Krita](https://krita.org/en/)
   - [GIMP](https://www.gimp.org/)
   I also like the fork of GIMP called [Glimpse](https://glimpse-editor.org/)
+
+---
+
+I have my games on Itch.io:
+  - [Interstellar Despot Simulator](https://burnsedia.itch.io/interstellar-despot-sim)
+
 ---
 
 Follow me on:
