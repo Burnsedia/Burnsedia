@@ -38,7 +38,7 @@ I make art with:
 ---
 
 I have my games on Itch.io:
-  - [Interstellar Despot Simulator](https://burnsedia.itch.io/interstellar-despot-sim)
+  - [Interstellar Despot Simulator](https://burnsedia.itch.io/interstellar-despot-sim)
 
 ---
 
