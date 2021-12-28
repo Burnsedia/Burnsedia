@@ -43,11 +43,11 @@ I have my games on Itch.io:
 ---
 
 Follow me on:
-  - [Youtube](https://www.youtube.com/channel/UC71vuzjHKhS4Wv4Px44FKjg)
-  - [Github](https://github.com/Burnsedia)
-  - [linkedin](https://www.djangoproject.com/)
+  - [YouTube](https://www.youtube.com/channel/UC71vuzjHKhS4Wv4Px44FKjg)
+  - [GitHub](https://github.com/Burnsedia)
+  - [LinkedIn](https://www.djangoproject.com/)
   - [Instagram](https://www.instagram.com/baileyburnsed/)
   - [Twitch](https://www.twitch.tv/burnsedia)  
   - [Twitter](https://twitter.com/Burnsed3dArt)
 
-  Oh btw, Twitter and Youtube are crindge, follow me on [Mastodon](https://mastodon.social/web/timelines/home), and [Odyse](https://odysee.com/@Burnsedia:4)
+  Oh btw, Twitter and YouTube are cringe, follow me on [Mastodon](https://mastodon.social/web/timelines/home), and [Odyse](https://odysee.com/@Burnsedia:4)
