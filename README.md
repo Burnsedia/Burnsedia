@@ -23,9 +23,6 @@ I am learning these Technolgies:
 Follow me on:
   - [YouTube](https://www.youtube.com/channel/UC71vuzjHKhS4Wv4Px44FKjg)
   - [GitHub](https://github.com/Burnsedia)
-  - [LinkedIn](https://www.djangoproject.com/)
-  - [Instagram](https://www.instagram.com/baileyburnsed/)
-  - [Twitch](https://www.twitch.tv/burnsedia)  
   - [Twitter](https://twitter.com/Burnsed3dArt)
 
   Oh btw, Twitter and YouTube are cringe, follow me on [Mastodon](https://mastodon.social/@Burnsedia), and [Odyse](https://odysee.com/@Burnsedia:4)
