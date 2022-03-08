@@ -11,20 +11,14 @@ Here are the Technolgies I use:
   - [Python](https://www.python.org/)
   - [Django](https://www.djangoproject.com/)
 
----
-
 I love this Editers and IDEs:
   - [Neovim](https://neovim.io/)
   - [VSCodium](https://vscodium.com/)
   - [Spacemacs](https://www.spacemacs.org/)
 
----
-
 I am learning these Technolgies:
   - [Vuejs](https://vuejs.org/)
   - [Docker](https://www.docker.com/)
-
----
 
 Follow me on:
   - [YouTube](https://www.youtube.com/channel/UC71vuzjHKhS4Wv4Px44FKjg)
