@@ -1,7 +1,5 @@
 # Burnsedia
-
 I am your typical nerd who builds FOSS apps and games.
-
 ---
 
 Here are the Technolgies I use:
@@ -18,6 +16,7 @@ I love this Editers and IDEs:
 
 I am learning these Technolgies:
   - [Vuejs](https://vuejs.org/)
+  - [Flutter](https://flutter.dev/)
   - [Docker](https://www.docker.com/)
 
 Follow me on:
