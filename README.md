@@ -4,20 +4,14 @@ I am your typical nerd who builds FOSS apps and games.
 
 Here are the Technolgies I use:
 
-  - [Rust](https://www.rust-lang.org/)
-  - [Godot Engine](https://godotengine.org/)
-  - [Python](https://www.python.org/)
-  - [Django](https://www.djangoproject.com/)
+  - [Rust](https://www.rust-lang.org/) for Real Work
+  - [Godot Engine](https://godotengine.org/) for Fun
+  - [Python](https://www.python.org/) and [Django](https://www.djangoproject.com/) for large clients
+  - [Bash](https://www.gnu.org/software/bash/) for everything else 
 
 I love this Editers and IDEs:
   - [Neovim](https://neovim.io/)
-  - [VSCodium](https://vscodium.com/)
-  - [Spacemacs](https://www.spacemacs.org/)
-
-I am learning these Technolgies:
-  - [Vuejs](https://vuejs.org/)
-  - [Flutter](https://flutter.dev/)
-  - [Docker](https://www.docker.com/)
+  - [Lunarvim](https://www.lunarvim.org/) is my main IDE these days
 
 Follow me on:
   - [YouTube](https://www.youtube.com/channel/UC71vuzjHKhS4Wv4Px44FKjg)
