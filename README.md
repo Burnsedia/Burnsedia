@@ -2,7 +2,7 @@
 I am your typical nerd who builds FOSS apps and games.
 ---
 
-Here are the Technolgies I use:
+Here are the Technologies I use:
 
   - [Rust](https://www.rust-lang.org/) for Real Work
   - [Godot Engine](https://godotengine.org/) for Fun
