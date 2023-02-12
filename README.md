@@ -9,7 +9,7 @@ Here are the Technologies I use:
   - [Python](https://www.python.org/) and [Django](https://www.djangoproject.com/) for large clients
   - [Bash](https://www.gnu.org/software/bash/) for everything else 
 
-I love this Editers and IDEs:
+I love this Editors and IDEs:
   - [Neovim](https://neovim.io/)
   - [Lunarvim](https://www.lunarvim.org/) is my main IDE these days
 
