@@ -18,4 +18,4 @@ Follow me on:
   - [GitHub](https://github.com/Burnsedia)
   - [Twitter](https://twitter.com/Burnsed3dArt)
 
-  Oh btw, Twitter and YouTube are cringe, follow me on [Mastodon](https://mastodon.social/@Burnsedia), and [Odyse](https://odysee.com/@Burnsedia:4)
+  Oh BTW, Twitter and YouTube are cringe, follow me on [Mastodon](https://mastodon.social/@Burnsedia), and [Odyse](https://odysee.com/@Burnsedia:4)
