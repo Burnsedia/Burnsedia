@@ -20,4 +20,4 @@ Follow me on:
 
   Oh BTW, Twitter and YouTube are cringe, follow me on [Mastodon](https://mastodon.social/@Burnsedia), and [Odyse](https://odysee.com/@Burnsedia:4)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Burnsedia)](https://github.com/anuraghazra/github-readme-stats)
+[![Burnsedia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Burnsedia&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
