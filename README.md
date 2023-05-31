@@ -1,4 +1,3 @@
-<p align=center>  <strong>
 # Burnsedia
 I am your typical nerd who builds FOSS apps and games.
 ---
@@ -22,11 +21,6 @@ Follow me on:
 
 [![Burnsedia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Burnsedia&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-
-<img src='https://komarev.com/ghpvc/?username=Burnsedia&color=008080'>
-</strong> </p>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-
 ## Git Stats
 <p align='center'>
   <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Burnsedia&background=130F40&border=fff&currStreakNum=fff&ring=7A7ADB&sideNums=fff&dates=d5d5d5&sideLabels=d5d5d5" alt="stats2" />
@@ -47,8 +41,3 @@ Follow me on:
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bburnsed1995@gmail.com) &emsp;[![LinkedIn - Nacer KRAA](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bailey-burnsed-50051115a/)&emsp;
 [![Twitter - @nacerkraa](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/BurnsediaArt)&emsp;[![Instagram - @nacerkraa](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white )](https://www.instagram.com/baileyburnsed/)&emsp;
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</div>
-<br/>
-<br/>
-</p>
