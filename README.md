@@ -23,7 +23,7 @@ Follow me on:
 [![Burnsedia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Burnsedia&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<img src='https://komarev.com/ghpvc/?username=nacerkraa1903&color=008080'>
+<img src='https://komarev.com/ghpvc/?username=Burnsedia&color=008080'>
 </strong> </p>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
@@ -34,9 +34,9 @@ Follow me on:
 </b>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 <p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nacerkraa&bg_color=130F40&icon_color=d73d4e&show_icons=true&count_private=true&theme=tokyonight&line_height=27&text_color=FFFFFF" alt="Nacer KRAA   github stars"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Burnsedia&bg_color=130F40&icon_color=d73d4e&show_icons=true&count_private=true&theme=tokyonight&line_height=27&text_color=FFFFFF" alt="Nacer KRAA   github stars"/>
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Burnsedia&langs_count=8&layout=compact&bg_color=130F40&text_color=FFFFFF" alt="nace rkraa's top langs"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Burnsedia&langs_count=8&layout=compact&bg_color=130F40&text_color=FFFFFF" alt="Burnsedia's top langs"/>
 </p>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 <div> 
