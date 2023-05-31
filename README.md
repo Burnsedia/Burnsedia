@@ -19,8 +19,6 @@ Follow me on:
 
   Oh BTW, Twitter and YouTube are cringe, follow me on [Mastodon](https://mastodon.social/@Burnsedia), and [Odyse](https://odysee.com/@Burnsedia:4)
 
-[![Burnsedia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Burnsedia&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Git Stats
 <p align='center'>
   <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Burnsedia&background=130F40&border=fff&currStreakNum=fff&ring=7A7ADB&sideNums=fff&dates=d5d5d5&sideLabels=d5d5d5" alt="stats2" />
