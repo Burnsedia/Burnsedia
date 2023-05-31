@@ -2,7 +2,6 @@
 # Burnsedia
 I am your typical nerd who builds FOSS apps and games.
 ---
-</p>
 Here are the Technologies I use:
 
   - [Rust](https://www.rust-lang.org/) for Real Work
@@ -22,3 +21,4 @@ Follow me on:
   Oh BTW, Twitter and YouTube are cringe, follow me on [Mastodon](https://mastodon.social/@Burnsedia), and [Odyse](https://odysee.com/@Burnsedia:4)
 
 [![Burnsedia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Burnsedia&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+</p>
