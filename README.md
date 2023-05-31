@@ -45,7 +45,7 @@ Follow me on:
 
 &emsp;&emsp;&emsp;
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bburnsed1995@gmail.com) &emsp;[![LinkedIn - Nacer KRAA](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bailey-burnsed-50051115a/)&emsp;
-[![Twitter - @nacerkraa](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nacerkraa)&emsp;[![Instagram - @nacerkraa](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white )](https://www.instagram.com/nacerkraa/)&emsp;[![Facebook - Nacer Kraa](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nacerkraa/about)&emsp;
+[![Twitter - @nacerkraa](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/BurnsediaArt)&emsp;[![Instagram - @nacerkraa](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white )](https://www.instagram.com/baileyburnsed/)&emsp;[![Facebook - Nacer Kraa](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nacerkraa/about)&emsp;
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </div>
