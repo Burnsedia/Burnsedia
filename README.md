@@ -19,17 +19,17 @@ Follow me on:
 
   Oh BTW, Twitter and YouTube are cringe, follow me on [Mastodon](https://mastodon.social/@Burnsedia), and [Odyse](https://odysee.com/@Burnsedia:4)
 
-## Git Stats
-<p align='center'>
-  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Burnsedia&background=130F40&border=fff&currStreakNum=fff&ring=7A7ADB&sideNums=fff&dates=d5d5d5&sideLabels=d5d5d5" alt="stats2" />
-</p>
-</b>
-<hr>
-<p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Burnsedia&show_icons=true&theme=tokyonight" alt="Nacer KRAA   github stars"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Burnsedia&langs_count=8&layout=compact&bg_color=130F40&text_color=FFFFFF" alt="Burnsedia's top langs"/>
-</p>
-  
+<!-- ## Git Stats -->
+<!-- <p align='center'> -->
+<!--   <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Burnsedia&background=130F40&border=fff&currStreakNum=fff&ring=7A7ADB&sideNums=fff&dates=d5d5d5&sideLabels=d5d5d5" alt="stats2" /> -->
+<!-- </p> -->
+<!-- </b> -->
+<!-- <hr> -->
+<!-- <p align='center'> -->
+<!--   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Burnsedia&show_icons=true&theme=tokyonight" alt="Nacer KRAA   github stars"/> -->
+<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Burnsedia&langs_count=8&layout=compact&bg_color=130F40&text_color=FFFFFF" alt="Burnsedia's top langs"/> -->
+<!-- </p> -->
+<!--    -->
 ## Contact Me 
 
 &emsp;&emsp;&emsp;
