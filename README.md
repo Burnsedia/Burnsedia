@@ -20,4 +20,4 @@ Follow me on:
   - [X.com](https://twitter.com/baileyburnsed)
 
 
-## [Contact Me](mail@baileyburnsed.dev)
+## <a href="mail@baileyburnsed.dev">Contact Me</a>
