@@ -17,9 +17,8 @@ Follow me on:
 
   - [YouTube](https://www.youtube.com/channel/UC71vuzjHKhS4Wv4Px44FKjg)
   - [GitHub](https://github.com/Burnsedia)
-  - [Twitter](https://twitter.com/Burnsed3dArt)
+  - [X.com](https://twitter.com/baileyburnsed)
 
-  Oh BTW, Twitter and YouTube are cringe, follow me on [Mastodon](https://mastodon.social/@Burnsedia), and [Odyse](https://odysee.com/@Burnsedia:4)
 
 ## Contact Me 
 
