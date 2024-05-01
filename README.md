@@ -1,6 +1,6 @@
 # Burnsedia
-I build software for $997/m.
----
+## I build software for $997/m.
+
 Here are the Technologies I use:
 
   - [Godot Engine](https://godotengine.org) for Mobile Games
