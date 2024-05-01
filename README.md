@@ -20,9 +20,4 @@ Follow me on:
   - [X.com](https://twitter.com/baileyburnsed)
 
 
-## Contact Me 
-
-&emsp;&emsp;&emsp;
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bburnsed1995@gmail.com) &emsp;[![LinkedIn - Bailey Burnsed](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bailey-burnsed-50051115a/)&emsp;
-[![Twitter - @BurnsediaArt](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/BurnsediaArt)&emsp;[![Instagram - @baileyburnsed](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white )](https://www.instagram.com/baileyburnsed/)&emsp;
-
+## [Contact Me](mail@baileyburnsed.dev)
