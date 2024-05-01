@@ -20,4 +20,8 @@ Follow me on:
   - [X.com](https://twitter.com/baileyburnsed)
 
 
-## <a href="mail@baileyburnsed.dev">Contact Me</a>
+## Contact Me 
+
+&emsp;&emsp;&emsp;
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mail@baileyburnsed.dev) &emsp;[![LinkedIn - Bailey Burnsed](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bailey-burnsed-50051115a/)&emsp;
+
