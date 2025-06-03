@@ -5,7 +5,7 @@ Here are the Technologies I use:
 
   - [Godot Engine](https://godotengine.org) for Mobile Games
   - [Vuejs](https://vuejs.org/) for Front End Development
-  - Flutter For Mobile Apps
+  - [Flutter](https://flutter.dev/) For Mobile Apps
   - [Python](https://www.python.org/) and [Django](https://www.djangoproject.com/) for BackEnd
   - Langchain for AI
 
