@@ -11,7 +11,6 @@ Here are the Technologies I use:
 
 I love this Editors and IDEs:
   - [Neovim](https://neovim.io/)
-  - [Lunarvim](https://www.lunarvim.org/) is my main IDE these days
 
 Follow me on:
 
