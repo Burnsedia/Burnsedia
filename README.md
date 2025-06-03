@@ -7,7 +7,7 @@ Here are the Technologies I use:
   - [Vuejs](https://vuejs.org/) for Front End Development
   - [Flutter](https://flutter.dev/) For Mobile Apps
   - [Python](https://www.python.org/) and [Django](https://www.djangoproject.com/) for BackEnd
-  - Langchain for AI
+  - [Langchain](https://www.langchain.com/) for AI
 
 I love this Editors and IDEs:
   - [Neovim](https://neovim.io/)
