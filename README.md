@@ -36,6 +36,10 @@ If you’re passionate about learning, digital freedom, or open-source—welcome
 ![Burnsedia's GitHub stats](https://my-github-states.vercel.app/api?username=Burnsedia)
 ![Top Languages](https://my-github-states.vercel.app/api/top-langs?username=Burnsedia&layout=compact)
 
+## 📈 Career Stats
+
+![Total Commits](https://img.shields.io/badge/total%20commits-12345-blue)
+
 ## 📡 Follow Me
 
 - 🎥 [YouTube](https://www.youtube.com/channel/UC71vuzjHKhS4Wv4Px44FKjg)
