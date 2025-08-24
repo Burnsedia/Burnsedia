@@ -4,13 +4,15 @@
 
 ## 🧠 About Me
 
-Arch Linux enthusiast, former basement apartment dweller, and open-source fan.  
-I worked my way out of poverty, one line of code at a time—embracing self-improvement and personal growth along the way.
+Arch Linux evangelist and open-source enthusiast. Former basement apartment dweller, now living proof that you can rewrite your story, embrace your quirks, and make a real impact.
 
-- Proudly autistic and neurodiverse.
+Proudly autistic and neurodiverse. I worked my way out of poverty, one line of code at a time—leveling up my style, mindset, and skills through self-improvement and personal growth.
+
 - Big fan of the EFF, digital freedom, and open-source software.
-- Co-organizer of PyATL, Atlanta’s Python user group—building community and empowering fellow developers.
 - Advocate for tech accessibility, inclusivity, and lifelong learning.
+- Building software that empowers individuals.
+- Co-organizer of PyATL, Atlanta’s Python user group—building community and empowering fellow developers.
+- Self-taught, always tinkering, learning, and pushing boundaries.
 - Always tinkering, learning, and sharing knowledge.
 
 ## 🚀 Tech Stack
