@@ -35,7 +35,6 @@ If you’re passionate about learning, digital freedom, or open-source—welcome
 
 ![Burnsedia's GitHub stats](https://my-github-states.vercel.app/api?username=Burnsedia)
 ![Top Languages](https://my-github-states.vercel.app/api/top-langs?username=Burnsedia&layout=compact)
-![GitHub Streak](https://my-github-states.vercel.app/api/streak?username=Burnsedia)
 
 ## 📡 Follow Me
 
