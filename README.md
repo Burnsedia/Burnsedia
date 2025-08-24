@@ -31,14 +31,12 @@ I worked my way out of poverty, one line of code at a time—embracing self-impr
 From poverty and stereotype to confidence and independence.  
 If you’re passionate about learning, digital freedom, or open-source—welcome!
 
-## 📊 GitHub Stats
+## GitHub Stats
 
-![Burnsedia's GitHub stats](https://my-github-states.vercel.app/api?username=Burnsedia)
-![GitHub Streak](https://my-github-states.vercel.app/api/streak?username=Burnsedia)
-![Most Used Languages](https://my-github-states.vercel.app/api/top-langs?username=Burnsedia&layout=compact)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Burnsedia&theme=matrix&column=4)
-
-## 📡 Follow Me
+![Burnsedia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Burnsedia&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Burnsedia&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=Burnsedia&theme=radical)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Burnsedia&theme=radical)## 📡 Follow Me
 
 - 🎥 [YouTube](https://www.youtube.com/channel/UC71vuzjHKhS4Wv4Px44FKjg)
 - 🐙 [GitHub](https://github.com/Burnsedia)
