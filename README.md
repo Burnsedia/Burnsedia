@@ -46,7 +46,7 @@ If you’re passionate about learning, digital freedom, or open-source—welcome
 - 🎥 [YouTube](https://www.youtube.com/channel/UC71vuzjHKhS4Wv4Px44FKjg)
 - 🐙 [GitHub](https://github.com/Burnsedia)
 - 𝕏 [Twitter](https://twitter.com/baileyburnsed)
-
+- [ON the Web](https://baileyburnsed.dev/)
 ## 📬 Contact Me
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mail@baileyburnsed.dev)
