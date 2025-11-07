@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Burnsedia!
 
-> Autistic nerd turned confident developer—advocate for self-improvement, digital freedom, and open-source.
+> Autistic nerd turned fullstack developer—advocate for self-improvement, digital freedom, and open-source.
 
 ## 🧠 About Me
 
@@ -33,13 +33,6 @@ Proudly autistic and neurodiverse. I worked my way out of poverty, one line of c
 From poverty and stereotype to confidence and independence.  
 If you’re passionate about learning, digital freedom, or open-source—welcome!
 
-## 📊 GitHub Stats
-
-![Burnsedia's GitHub stats](https://my-github-states.vercel.app/api?username=Burnsedia&show_icons=true&theme=synthwave)
-![Top Languages](https://my-github-states.vercel.app/api/top-langs?username=Burnsedia&layout=compact&theme=synthwave)
-## 📈 Career Stats
-
-![Total Commits](https://img.shields.io/badge/total%20commits-12345-blue)
 
 ## 📡 Follow Me
 
