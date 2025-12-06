@@ -1,19 +1,13 @@
 # Hey, I'm Burnsedia!
 
-> Autistic nerd turned fullstack developer—advocate for self-improvement, digital freedom, and open-source.
+> Autistic nerd turned fullstack developer
 
 ## About Me
 
-Arch Linux evangelist and open-source enthusiast. Former basement apartment dweller, now living proof that you can rewrite your story, embrace your quirks, and make a real impact.
+Linux and open-source enthusiast. Former basement apartment dweller, now living proof that you can rewrite your story, embrace your quirks, and make a real impact.
 
 Proudly autistic and neurodiverse. I worked my way out of poverty, one line of code at a time—leveling up my style, mindset, and skills through self-improvement and personal growth.
 
-- Big fan of the EFF, digital freedom, and open-source software.
-- Advocate for tech accessibility, inclusivity, and lifelong learning.
-- Building software that empowers individuals.
-- Co-organizer of PyATL, Atlanta’s Python user group—building community and empowering fellow developers.
-- Self-taught, always tinkering, learning, and pushing boundaries.
-- Always tinkering, learning, and sharing knowledge.
 
 ## Tech Stack
 
