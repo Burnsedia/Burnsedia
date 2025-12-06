@@ -24,10 +24,9 @@ I build fast, clean, full-stack systems with a focus on performance, simplicity,
 
 ## My Journey
 
-
-I started coding at 9 by modding Command & Conquer, and after high school I went straight into freelancing—building websites, apps, and my own games.  
-Turned that obsession into a career building software for the web, mobile, and desktop.  
-Now I ship indie tools, apps, and games while refining my craft one commit at a time.
+I started programming at 9 by modding Command & Conquer. After high school, I moved directly into freelance work—building websites, applications, and games from the ground up.
+That foundation grew into a career shipping production software across web, mobile, and desktop platforms.
+Now I build and ship indie tools, apps, and games with a focus on clean design and continuous improvement.
 
 ## Follow Me
 
