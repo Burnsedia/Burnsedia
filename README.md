@@ -11,12 +11,13 @@ I build fast, clean, full-stack systems with a focus on performance, simplicity,
 
 ## Tech Stack
 
-- Godot Engine — mobile & desktop games  
-- Vue.js — frontend 
-- Flutter — cross-platform mobile & desktop  
-- Python & Django — API design & backend systems  
-- LangChain — AI workflows & agentic tools  
-
+```markdown
+> Godot Engine - mobile & desktop games  
+> Vue.js - frontend 
+> Flutter - cross-platform mobile & desktop  
+> Python & Django - API design & backend systems  
+> LangChain - AI workflows & agentic tools  
+```
 ## Editor & Environment
 
 - Neovim — my daily driver  
