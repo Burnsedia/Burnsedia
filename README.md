@@ -28,7 +28,7 @@ Proudly autistic and neurodiverse. I worked my way out of poverty, one line of c
 - Neovim — my daily driver
 - Arch Linux — *btw*
 
-## 🌟 My Journey
+## My Journey
 
 From poverty and stereotype to confidence and independence.  
 If you’re passionate about learning, digital freedom, or open-source—welcome!
