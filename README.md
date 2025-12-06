@@ -1,38 +1,38 @@
 # Hey, I'm Burnsedia!
 
-> Autistic nerd turned fullstack developer
+> Full-stack developer, indie hacker, and open-source builder.
 
 ## About Me
 
-Linux and open-source enthusiast. Former basement apartment dweller, now living proof that you can rewrite your story, embrace your quirks, and make a real impact.
+Self-taught Linux and open-source developer.  
+I started coding at 9 by modding Command & Conquer, and after high school I went straight into freelancing—building websites, apps, and my own games.  
 
-Proudly autistic and neurodiverse. I worked my way out of poverty, one line of code at a time—leveling up my style, mindset, and skills through self-improvement and personal growth.
-
+Software Engineering has been my entire career. I build fast, clean, full-stack systems with a focus on performance, simplicity, and shipping real products.
 
 ## Tech Stack
 
-- Godot Engine — mobile & desktop games
-- Vue.js — frontend magic
-- Flutter — cross-platform apps
-- Python & Django — backend wizardry
-- LangChain — AI workflows
+- Godot Engine — mobile & desktop games  
+- Vue.js — frontend SPAs & dashboards  
+- Flutter — cross-platform mobile & desktop  
+- Python & Django — API design & backend systems  
+- LangChain — AI workflows & agentic tools  
 
 ## Editor & Environment
 
-- Neovim — my daily driver
-- Arch Linux — *btw*
+- Neovim — my daily driver  
+- Arch Linux — *btw*  
 
 ## My Journey
 
-From poverty and stereotype to confidence and independence.  
-If you’re passionate about learning, digital freedom, or open-source—welcome!
-
+Started as a kid modifying strategy games.  
+Turned that obsession into a career building software for the web, mobile, and desktop.  
+Now I ship indie tools, apps, and games while refining my craft one commit at a time.
 
 ## Follow Me
 
-- [YouTube](https://www.youtube.com/channel/UC71vuzjHKhS4Wv4Px44FKjg)
-- [GitHub](https://github.com/Burnsedia)
-- [Twitter](https://twitter.com/baileyburnsed)
+- [YouTube](https://www.youtube.com/channel/UC71vuzjHKhS4Wv4Px44FKjg)  
+- [GitHub](https://github.com/Burnsedia)  
+- [Twitter](https://twitter.com/baileyburnsed)  
 
 ## Contact Me
 
@@ -41,4 +41,5 @@ If you’re passionate about learning, digital freedom, or open-source—welcome
 
 ---
 
-> _“Code is poetry. Self-improvement is the ultimate open-source project.”_
+> _“Build fast. Ship often. Own the stack.”_
+
