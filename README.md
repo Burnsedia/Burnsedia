@@ -4,15 +4,15 @@
 
 ## About Me
 
-Self-taught Linux and open-source developer.  
-I started coding at 9 by modding Command & Conquer, and after high school I went straight into freelancing—building websites, apps, and my own games.  
-
-Software Engineering has been my entire career. I build fast, clean, full-stack systems with a focus on performance, simplicity, and shipping real products.
+Self-taught developer.
+Linux and open-source enthusiast 
+Software Engineering has been my entire career. 
+I build fast, clean, full-stack systems with a focus on performance, simplicity, and shipping real products.
 
 ## Tech Stack
 
 - Godot Engine — mobile & desktop games  
-- Vue.js — frontend SPAs & dashboards  
+- Vue.js — frontend 
 - Flutter — cross-platform mobile & desktop  
 - Python & Django — API design & backend systems  
 - LangChain — AI workflows & agentic tools  
@@ -24,7 +24,8 @@ Software Engineering has been my entire career. I build fast, clean, full-stack 
 
 ## My Journey
 
-Started as a kid modifying strategy games.  
+
+I started coding at 9 by modding Command & Conquer, and after high school I went straight into freelancing—building websites, apps, and my own games.  
 Turned that obsession into a career building software for the web, mobile, and desktop.  
 Now I ship indie tools, apps, and games while refining my craft one commit at a time.
 
