@@ -31,8 +31,8 @@ tech_stack:
 ```
 ## Editor & Environment
 
-- Neovim — my daily driver  
-- Arch Linux — *btw*  
+- Neovim - my daily driver  
+- Arch Linux - *btw*  
 
 ## My Journey
 
