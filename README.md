@@ -11,12 +11,23 @@ I build fast, clean, full-stack systems with a focus on performance, simplicity,
 
 ## Tech Stack
 
-```markdown
-> Godot Engine - mobile & desktop games  
-> Vue.js - frontend 
-> Flutter - cross-platform mobile & desktop  
-> Python & Django - API design & backend systems  
-> LangChain - AI workflows & agentic tools  
+```yml
+tech_stack:
+  - name: Godot Engine
+    description: "Mobile & desktop games"
+
+  - name: Vue.js
+    description: "Frontend development"
+
+  - name: Flutter
+    description: "Cross-platform mobile & desktop apps"
+
+  - name: Python & Django
+    description: "API design & backend systems"
+
+  - name: LangChain
+    description: "AI workflows & agentic tools"
+ 
 ```
 ## Editor & Environment
 
