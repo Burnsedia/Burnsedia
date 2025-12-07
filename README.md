@@ -36,10 +36,10 @@ tech_stack:
 
 ## My Journey
 
-I started programming at 9 by modding Command & Conquer. 
-After high school, I moved directly into freelance work—building websites, applications, and games from the ground up.
-That foundation grew into a career shipping production software across web, mobile, and desktop platforms.
-Now I build and ship indie tools, apps, and games with a focus on clean design and continuous improvement.
+- Began coding at 9 by modding Command & Conquer.  
+- Jumped into freelancing right after high school.  
+- Built production software for web, mobile, and desktop.  
+- Now focused on shipping indie tools, apps, and games.
 
 ## Follow Me
 
