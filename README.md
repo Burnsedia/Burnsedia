@@ -27,7 +27,7 @@ tech_stack:
 
   - name: LangChain
     description: "AI workflows & agentic tools"
- 
+
 ```
 ## Editor & Environment
 
@@ -36,6 +36,13 @@ tech_stack:
 - M1 Mac - for IOS development
 - ThinkPad - for on the go hacking
 - PC - art and game development
+
+## Art and Creativity
+
+- Blender - for 3d modeling and video editing
+- Krita - for digital panting and making textures
+- Gimp - for image editing
+- AmorPaint - for shader painting
 
 ## My Journey
 
