@@ -34,7 +34,8 @@ tech_stack:
 - Neovim - my daily driver  
 - Arch Linux - *btw*  
 - M1 Mac - for IOS development
-- ThinkPad - for hacking
+- ThinkPad - for on the go hacking
+- PC - art and game development
 
 ## My Journey
 
