@@ -52,7 +52,4 @@ tech_stack:
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mail@baileyburnsed.dev)
 [![LinkedIn - Bailey Burnsed](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bailey-burnsed-50051115a/)
 
----
-
 > _“Build fast. Ship often. Own the stack.”_
-
